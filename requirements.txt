@@ -1,0 +1,16 @@
+streamlit
+pandas
+gpt4all
+matplotlib
+scikit-learn
+langchain
+langchain-community
+langchain-experimental
+sentencepiece
+accelerate
+tabulate
+transformers
+openai
+torch
+seaborn
+langchain-huggingface
